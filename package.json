@@ -1,0 +1,19 @@
+{
+  "name": "foxyz-register-union",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "register.js",
+  "scripts": {
+    "start": "node register.js"
+  },
+  "dependencies": {
+    "compression": "^1.7.5",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "firebase-admin": "^12.0.0"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
+
